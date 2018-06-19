@@ -1,3 +1,6 @@
+ 修复placeholderImage的contentMode不一致的问题  
+ -------------------- fork end ----------------------
+
 # SDCycleScrollView（新建QQ交流群：185534916、675995250）
 ## ☆☆☆ “iOS图片、文字轮播器” ☆☆☆
 
